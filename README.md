@@ -21,13 +21,7 @@ Here are some ideas to get you started:
 </div> 
 
 <div align="center"> 
-  <a href="https://╔══╗....<3
-╚╗╔╝..('\../')
-╔╝╚╗..( •.• )
-╚══╝..(,,)(,,)
-╔╗╔═╦╦╦═╗ ╔╗╔╗
-║╚╣║║║║╩╣ ║╚╝║
-╚═╩═╩═╩═╝ ╚══╝"> 
+  <a href="https://photos.app.goo.gl/kuFGaHRcB7JdkRRC9"> 
     <img src="https://photos.app.goo.gl/kuFGaHRcB7JdkRRC9" alt="Mustafizur Bot" height="300"> 
   </a> 
 </div>
@@ -126,13 +120,7 @@ prefix: 'both' (prefix nonprefix both work)
     cd NAYAN-WHATSAPP-BOT
     ```
 
-2. **Install the dependencies:**
-
-    ```bash
-    npm install
-    ```
-
-3. **Run the bot:**
+2. **Run the bot:**
 
     ```bash
     node index.js
