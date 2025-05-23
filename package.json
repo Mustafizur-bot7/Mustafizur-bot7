@@ -1,7 +1,7 @@
 {
-  "name": "NAYAN-WHATSAPP-BOT",
-  "version": "1.0.5",
-  "description": "WhatsApp Bot Created by Mohammad Nayan",
+  "name": "MUSTAFIZUR-WHATSAPP-BOT",
+  "version": "1.0.7",
+  "description": "WhatsApp Bot Created by Mohammad Mustafizur",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -16,14 +16,14 @@
     "whatsapp-bot-multi-device",
     "best-whatsapp-bot",
     "whatsappbots",
-    "nayanbot",
-    "nayan-bot",
-    "nayan-bot-github",
-    "nayan-bot-md",
-    "nayanbot-whatsapp-bot",
+    "mustafizurbot",
+    "mustafizur-bot",
+    "mustafizur-bot-github",
+    "mustafizur-bot-md",
+    "mustafizurbot-whatsapp-bot",
     "github-whatsapp-bot"
   ],
-  "author": "Mohammad Nayan",
+  "author": "Mohammad Mustafizur",
   "license": "ISC",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
